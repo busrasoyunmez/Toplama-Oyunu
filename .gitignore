@@ -16,6 +16,8 @@
 *.gch
 *.pch
 
+#Debug
+
 # Libraries
 *.lib
 *.a
