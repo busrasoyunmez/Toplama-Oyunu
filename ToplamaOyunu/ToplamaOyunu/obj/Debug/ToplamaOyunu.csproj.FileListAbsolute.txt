@@ -1,0 +1,7 @@
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\bin\Debug\ToplamaOyunu.exe.config
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\bin\Debug\ToplamaOyunu.exe
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\bin\Debug\ToplamaOyunu.pdb
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\obj\Debug\ToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\obj\Debug\ToplamaOyunu.exe
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\obj\Debug\ToplamaOyunu.pdb
+C:\Users\busra.soyunmez\Desktop\BusraSoyunmez\ToplamaOyunu\ToplamaOyunu\obj\Debug\ToplamaOyunu.csprojAssemblyReference.cache
